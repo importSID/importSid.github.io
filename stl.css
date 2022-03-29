@@ -1,0 +1,87 @@
+body{
+    width: auto;
+    background: rgb(179,227,232);
+    background: linear-gradient(90deg, rgb(21, 65, 70) 0%, rgb(0, 64, 94) 45%, rgba(0,23,66,1) 100%);
+}
+
+h1 {
+    height: 40px;
+    width: auto;
+    font-size: 50pt;
+    color:whitesmoke;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:normal;
+    letter-spacing:1.5px;
+    text-align: left;
+    text-rendering: auto;
+    margin-left: 100pt;
+    margin-top: 80pt
+}
+h2 {
+    height: 30px;
+    width: auto;
+    font-size: 40pt;
+    color:whitesmoke;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:normal;
+    letter-spacing:1px;
+    text-align: left;
+    text-rendering: auto;
+    margin-left: 100pt;
+    margin-top: 25pt
+}
+
+h3 {
+    font-size: 20pt;
+    width: auto;
+    color:whitesmoke;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: normal;
+    letter-spacing:1px;
+    text-align: left;
+    line-height: auto;
+    text-rendering: auto;
+    margin-left: 100pt;
+    margin-top: auto
+}
+
+
+
+
+p{
+    line-height: 20px;
+    text-align: left;   
+}
+
+p.Contact{
+    font-size: 18pt;
+    font-weight:lighter;
+    line-height: 18pt;
+    text-align: center;
+    margin-right: 5%;
+    margin-left: 80%;
+    color:#f7f4d8
+  }
+
+
+.aContact {
+    color:#c22370;
+    font-size: 12pt;
+    padding: 1px 2px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+.aMain {
+    color: rgb(202, 216, 213);
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+
+ul{
+    font-size: 18pt;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-right: 5%;
+    word-spacing: 25pt;
+}
